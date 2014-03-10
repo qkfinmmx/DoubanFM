@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/DoubanMusic/img">
+        <file>img/CloseRed_24.png</file>
+        <file>img/like_32.png</file>
+        <file>img/next_32.png</file>
+        <file>img/recycle_32.png</file>
+        <file>img/like_32_pink.png</file>
+    </qresource>
+</RCC>
